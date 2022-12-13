@@ -28,7 +28,7 @@
 // a value of 1 would represent a perfect cache, but that causes
 // games to run too fast, causing a number of issues
 const int kDataCacheTiming = 1;//2;
-const int kDataCacheTimingSlow = 17;
+const int kDataCacheTimingSlow = 28;
 const int kCodeCacheTiming = 3;//5;
 
 u64 sumDataCacheCycles = 0;
